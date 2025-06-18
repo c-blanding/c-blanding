@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Kickslife
-- 👀 I’m interested in GO, JS, React Native
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi I'm Craig Blanding a Full-Stack Ai-Engineer
 
 <!---
 Kickslife/Kickslife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
